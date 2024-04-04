@@ -2,5 +2,8 @@ Submitter: Add new section for your pull request with a Tag and pick it up from 
 
 
 
+[1.0.1]
+* [ADDED] MCS-2 R workflow.
+
 [1.0.0]
 * [ADDED] MCS-1 geometric brownian motion monte carlo simulation.
